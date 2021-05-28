@@ -1,16 +1,16 @@
-apiVersion: argoproj.io/v1alpha1
-kind: Application
-metadata:
-  name: cluedin
-  namespace: argo-cd
-  finalizers:
-  - resources-finalizer.argocd.argoproj.io
-spec:
-  destination:
-    namespace: cluedin
-    server: {{ .Values.spec.destination.server }}
-  project: default
-  source:
-    path: 02_kubernetes/cluedin
-    repoURL: {{ .Values.spec.source.repoURL }}
-    targetRevision: {{ .Values.spec.source.targetRevision }}
+# apiVersion: argoproj.io/v1alpha1
+# kind: Application
+# metadata:
+#   name: cluedin
+#   namespace: argo-cd
+#   finalizers:
+#   - resources-finalizer.argocd.argoproj.io
+# spec:
+#   destination:
+#     namespace: cluedin
+#     server: {{ .Values.spec.destination.server }}
+#   project: default
+#   source:
+#     path: 02_kubernetes/cluedin
+#     repoURL: {{ .Values.spec.source.repoURL }}
+#     targetRevision: {{ .Values.spec.source.targetRevision }}
