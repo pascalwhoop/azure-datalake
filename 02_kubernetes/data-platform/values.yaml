@@ -1,3 +1,7 @@
 dataplatform-bp2:
   kafka:
     enabled: false
+  elasticsearch:
+    enabled: false
+  logstash:
+    enabled: false
