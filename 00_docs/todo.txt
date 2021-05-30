@@ -1,0 +1,11 @@
+(A) jupyterhub not working (too-many-redirects)  +platform @bug
+(A) validate spark connection works +usecase +infra
+container registrty +infra
+secrets management +platform
+kafka cluster +infra
+kafka connect to parquet +integration
+monitoring dashboard +infra
+blob storage +infra
+simple batch pipeline +usecase
+x 2021-05-30 argocd
+x 2021-05-30 kubernetes cluster

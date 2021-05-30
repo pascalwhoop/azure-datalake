@@ -1,18 +1,5 @@
-
-## TODO install
-
-- secrets management
-- kafka cluster
-- kafka connect to parquet
-- monitoring dashboard
-- blob storage
-- simple batch pipeline
-
-
 ## Installed
 
-- kubernetes cluster
-- argocd
 
 
 # links
