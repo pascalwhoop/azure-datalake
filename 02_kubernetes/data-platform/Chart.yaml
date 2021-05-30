@@ -11,3 +11,6 @@ dependencies:
 - name: dataplatform-bp2 
   version: 2.0.0
   repository: https://charts.bitnami.com/bitnami
+- name: jupyterhub
+  version: 2.0.0
+  repository: https://charts.bitnami.com/bitnami
