@@ -1,0 +1,74 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="341px" height="81px" viewBox="-0.5 -0.5 341 81" content="&lt;mxfile&gt;&lt;diagram id=&quot;XgyrkEjGsoLlG6etx7wv&quot; name=&quot;Page-1&quot;&gt;1ZTBboMwDIafBmm7FdgYPXa026RpUiWk7ZyCC5ECiUwYdE8/ZwmliFbaaVMvyP5sJ/FvCy9Mqv4ZmSrfZA7CCxZ574VrLwiWcURfAw4W3MWxBQXy3CJ/BCn/AgcXjrY8h2aSqKUUmqspzGRdQ6YnjCHKbpq2l2J6q2IFzECaMTGnHzzXpaVx8DDyF+BFOdzsR0sbqdiQ7DppSpbL7gSFGy9MUEptrapPQBjtBl1s3dOF6PFhCLX+TUFgCz6ZaF1viZBt7pmySNARjzskqzDWVjC9l1jNIzcaEJmJ3bq29GHQijpUxmw0KEpVgLwCyndoO/qPXck1pIplJr+jzSFW6kqQ55O55z0My2B893RADf3F9v2jqLSMIOkqPFDKsIluDG4P/cj53ThVfxhVeTLR2DHmFqk4njxqTYaT+7z04Uz6FDIE3ZzR9521Ql+ZtsHiH8W9n4n72u4Aa1LjjL4rpQTPmOayPqf+CgtJhyXrK5tA6P/dBMgd/1o/sZNff7j5Bg==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 0 0 L 100 0 L 120 40 L 100 80 L 0 80 L 20 40 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Cloud
+                                <br/>
+                                Platform
+                                <br/>
+                                (terraform)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="60" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Cloud...
+                </text>
+            </switch>
+        </g>
+        <path d="M 110 0 L 210 0 L 230 40 L 210 80 L 110 80 L 130 40 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 111px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Secrets
+                                <br/>
+                                (Vault)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="170" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Secrets...
+                </text>
+            </switch>
+        </g>
+        <path d="M 220 0 L 320 0 L 340 40 L 320 80 L 220 80 L 240 40 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 221px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Kubernetes
+                                <br/>
+                                Applications
+                                <br/>
+                                (Argo CD)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="280" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Kubernetes...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

@@ -1,0 +1,3 @@
+dataplatform-bp2:
+  kafka:
+    enabled: false
