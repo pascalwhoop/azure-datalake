@@ -1,0 +1,7 @@
+# Vault
+
+High level explanation by HashiCorp's founder:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VYfl-DpZ5wM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
